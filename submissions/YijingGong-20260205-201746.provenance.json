@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/chenhaoq87/agentbeats-paper-extractor-paper-evaluator@sha256:33590514cb66dd7f82349f38ef98d376bec4f9891e08cd837d5e633aa233bf2a",
+    "participant": "ghcr.io/chenhaoq87/agentbeats-paper-extractor-paper-agent@sha256:b7e73ace1f550c577c38c0f84f06ab8be1c938b2d61db4effe7f6dd12160765c",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-02-05T20:17:46Z",
+  "github_actions": {
+    "run_url": "https://github.com/YijingGong/Dairy-paper-evaluator-leaderboard/actions/runs/21726926401",
+    "run_logs_url": "https://api.github.com/repos/YijingGong/Dairy-paper-evaluator-leaderboard/actions/runs/21726926401/logs",
+    "ref": "refs/heads/YijingGong-patch-10",
+    "sha": "9ebf23f5d2d32d80953873e0b12ba102595d1b42",
+    "repository_url": "https://github.com/YijingGong/Dairy-paper-evaluator-leaderboard",
+    "workflow_ref": "YijingGong/Dairy-paper-evaluator-leaderboard/.github/workflows/run-scenario.yml@refs/heads/YijingGong-patch-10",
+    "workflow_sha": "9ebf23f5d2d32d80953873e0b12ba102595d1b42"
+  }
+}
